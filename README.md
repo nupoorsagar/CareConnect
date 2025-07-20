@@ -9,6 +9,7 @@ The app features over four dedicated pages, encompassing functionalities for sup
 <img width="1035" height="444" alt="image" src="https://github.com/user-attachments/assets/66ac711e-a079-4006-892a-93353279370a" />
 
 Presentation and More details: https://docs.google.com/presentation/d/17jFC_gZ8IEosBFhR9a3vT_rdthe1YAkXKd5NagMrYSo/edit?usp=sharing
+
 Documentation: https://docs.google.com/document/d/14ayIbKVDa-FEw2NRsrg-KdBx9HihrN9yb7tZ0FOYFwI/edit?usp=sharing
 
 
