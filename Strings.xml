@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Supplies Donation</string>
+    <string name="button_donate">Donate Supplies</string>
+    <string name="button_view_need">View Need</string>
+    <string name="button_track">Track My Donations</string>
+    <string name="button_request">Request Supplies</string>
+    <!-- Add other strings as needed -->
+</resources>
