@@ -4,7 +4,7 @@ A Mobile Application build with Android Studio(Java) for Healthcare Supplies Don
 CareConnect streamlines healthcare supply donation and distribution, specifically designed to support hospitals and NGOs and optimize resource sharing during healthcare crises.
 
 The app features over four dedicated pages, encompassing functionalities for supply requests and comprehensive donation tracking. A key feature is the direct contact capability with organizations via phone or email, facilitated through both explicit and implicit intents. For enhanced user experience, intuitive dropdown menus were integrated for ease of navigation, and every request or donation action is confirmed with a descriptive toast message.
-
+ 
 <img width="1008" height="478" alt="image" src="https://github.com/user-attachments/assets/f83b840b-f0d5-4d24-a3fc-d55ff0c73ef6" />
 <img width="1035" height="444" alt="image" src="https://github.com/user-attachments/assets/66ac711e-a079-4006-892a-93353279370a" />
 
